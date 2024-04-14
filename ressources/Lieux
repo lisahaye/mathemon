@@ -1,0 +1,11 @@
+
+Bienvenue dans la section lieu.
+Les lieu sont les endroits où vous affronter vos ennemies.
+Chaque lieu à un niveau de difficulté différents, plus vous prenez un niveau de lieu élevé, plus les ennemis auront des statistique élevé.
+Selon les lieux vous n'aurait pas accés au même outils (les outils sont les opérateurs mathématiques comme +,-,*,,/,%).
+liste des outils selon les lieux :  - Lieu 1 : +
+                                    - Lieu 2 : + -
+                                    - Lieu 3 : + - *
+                                    - Lieu 4 : + - * / 
+                                    - Lieu 5 à 7 : + - * / %
+

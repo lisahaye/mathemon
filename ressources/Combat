@@ -1,0 +1,11 @@
+
+Bienvenue dans le systéme de combats de Mathemon.
+Pour avancer dans le jeu, il vous faut affronter des ennemies en duel mathematique et remporter le combat afin de gagner de l'experience et montée en niveau.
+Lors de ces affrontement, vous aurez le choix entre combattre et ouvrir l'inventaire.
+Si vous combattez,vous devez répondre a une équation pour pouvoir affliger des dégats a l'adversaire. Vous gagnez lorsque ses pv tombent a zéro et vous aurez une chance de gagner un objet.
+L'ennemie a juste une certaine probabilité de vous touchez. Lorsque vos pv tombent à zéro, vous perdez.
+Si vous choisissez l'inventaire, vous pourrez alors utilisé un objet que vous possédé, l'effet est indiqué dans sa description.
+Lorsque vous perdez, votre vie revient a son maximum, mais vous perdez tout votre expérience. (les niveaux reste les même) 
+Chaques ennemis a des statistiques différents, et plus vous monter en niveau, plus les équations seront difficiles et les stats des ennemies améliorée.
+ATTENTION: lors de vos combats, vous devez répondre en moins de 5 seconde, sinon quoi vous raterez votre coup.
+

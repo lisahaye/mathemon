@@ -1,0 +1,12 @@
+
+Bienvenue dans Mathémon.
+Ce jeu est un mixte de Mathématique et de Pokemon. Vous affronterez des pokémons dans des duels mathématiques où il vous faudra répondre a des équations pour gagner.
+Vous pouvez voir dans le menu différentes options : -Les stats, qui vous présente les stats de votres personnage (vie, force, nom...).
+                                                    -L'inventaire, qui vous présente les différents objets du jeu et le nombre que vous possédez. Choisissez en un pour voir sa description.
+                                                    -Les maps, qui sont des lieux de combat, elle ne sont que textuelles et se débloque en montant de niveau.
+                                                    -Quitter (avec sauvegarde), qui sauvegarde sur l'emplacement de votre choix vos stats afin de pouvoir reprendre où vous en étiez.
+                                                     ATTENTION: sauvegarder votre partie sur un emplacement déjà prit remplacera la sauvegarde présente par la votre.
+                                                    -Quitter (sans sauvegarde), vous sortez juste du jeu, votre progression est perdue.
+                                                    -Aide, sert a vous donner des informations sur le fonctionnement du jeu.
+Pour reprendre une partie sauvegarder, vous devez, lors du lancement de la partie utiliser charger une partie au lieu de crée un personnage.
+
